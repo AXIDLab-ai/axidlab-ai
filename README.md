@@ -4,7 +4,7 @@
 
 [![Lab Website](https://img.shields.io/badge/Website-AXID%20Lab-blue)](https://sites.google.com/view/ax-id)
 [![Notion](https://img.shields.io/badge/Notion-Research%20Archive-lightgrey)](https://axid.notion.site)
-[![Archive](https://img.shields.io/badge/Archive-MIS%20Lecture-orange)](./lectureMap.md)
+[![Archive](https://img.shields.io/badge/Archive-MIS%20Lecture-orange)](./lecture/README.md)
 
 ---
 
