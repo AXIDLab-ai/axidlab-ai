@@ -1,7 +1,10 @@
 ---
-layout: home
-title: AXID Lab Landing Page
+layout: default
+title: AXID Lab
+description: 데이터와 현장의 문제를 연결해 책임 있는 디지털 혁신을 연구하는 AXID Lab
 ---
+# AXID Lab
+
 ### 강송희 교수 · Professor Dr. Songhee Kang  
 
 ![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
@@ -16,7 +19,7 @@ title: AXID Lab Landing Page
 
 ---
 
-## 1. AXID Lab · 연구실 소개
+## 1. AXID Lab · 연구실 소개 {#about}
 
 **AXID Lab** studies how emerging digital technologies, data, and AI reorganize decision-making, responsibility, risk, and field-driven innovation across organizations and institutions.
 
@@ -38,7 +41,7 @@ AXID Lab은 데이터와 현장의 문제를 연결하여 실질적인 비즈니
 
 ---
 
-## 2. Research Philosophy · 연구 철학
+## 2. Research Philosophy · 연구 철학 {#research}
 
 ![3C Model](https://img.shields.io/badge/3C%20Model-Chance%20%7C%20Choice%20%7C%20Change-00897B?style=flat-square)
 
@@ -63,7 +66,7 @@ AX/DX는 성능 향상보다 책임성의 재협상에 의해 더 크게 추동�
 
 ---
 
-## 3. Teaching · 교육
+## 3. Teaching · 교육 {#teaching}
 
 ![Teaching](https://img.shields.io/badge/Teaching-AI--Inquiry%20Resilience-00897B?style=flat-square)
 
@@ -88,7 +91,7 @@ In the age of generative AI, teaching must move beyond tool usage. Students and 
 
 ---
 
-## 4. Field Innovation · 현장 중심 혁신
+## 4. Field Innovation · 현장 중심 혁신 {#innovation}
 
 ![Field Innovation](https://img.shields.io/badge/Field--driven-Innovation-00897B?style=flat-square)
 
@@ -108,7 +111,7 @@ AXID Lab은 산업 현장, 조직 제약, 실제 의사결정 환경에 기반�
 
 ---
 
-## 5. Affiliation · 소속
+## 5. Affiliation · 소속 {#affiliation}
 
 ![TU Korea](https://img.shields.io/badge/Tech%20University%20of%20Korea-546E7A?style=flat-square)
 
@@ -126,7 +129,7 @@ AXID Lab은 산업 현장, 조직 제약, 실제 의사결정 환경에 기반�
 
 ---
 
-## 6. Links · 주요 링크
+## 6. Links · 주요 링크 {#links}
 
 ![Links](https://img.shields.io/badge/Links-AXID%20Network-00897B?style=flat-square)
 
@@ -139,7 +142,7 @@ AXID Lab은 산업 현장, 조직 제약, 실제 의사결정 환경에 기반�
 
 ---
 
-## 7. Contact · 연락처
+## 7. Contact · 연락처 {#contact}
 
 | Item | Information |
 |---|---|

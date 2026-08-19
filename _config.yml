@@ -1,4 +1,22 @@
-title: Lecture
+title: AXID Lab
+description: 계산적 엄밀성과 책임 있는 혁신 설계가 만나는 AXID Lab
+lang: ko-KR
 url: "https://axidlab-ai.github.io"
 baseurl: "/landing"
 theme: minima
+
+titles_from_headings:
+  enabled: false
+  strip_title: false
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - index_backup.html
